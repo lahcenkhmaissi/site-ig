@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'pixel';
+    src: url(/fonts/Pixel\ Digivolve.otf) format('otf');
+}
+body {
+    font-family: 'pixel';
+    background-color: black;
+}
+p, h1{
+  color: white;  
+}
+div{
+    background-color: blue;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
